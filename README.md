@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Mathias and I work as a sysadmin in a Microsoft centric team.
+
+I like to user PowerShell.
+
+I also play with some other things here for my personal use and interests.
+
 <!--
 **M-thias/M-thias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
